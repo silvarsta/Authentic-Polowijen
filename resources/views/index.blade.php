@@ -4,14 +4,14 @@
 	<title>Pacific - Free Bootstrap 4 Template by Colorlib</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	
+
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Arizonia&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	<link rel="stylesheet" href="css/animate.css">
-	
+
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
@@ -19,7 +19,7 @@
 	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
 	<link rel="stylesheet" href="css/jquery.timepicker.css">
 
-	
+
 	<link rel="stylesheet" href="css/flaticon.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
@@ -44,7 +44,7 @@
 		</div>
 	</nav>
 	<!-- END nav -->
-	
+
 	<div class="hero-wrap js-fullheight" style="background-image: url('images/bg_5.jpg');">
 		<div class="overlay"></div>
 		<div class="container">
@@ -73,7 +73,7 @@
 								</div>
 							</div>
 							<div class="col-md-12 tab-wrap">
-								
+
 								<div class="tab-content" id="v-pills-tabContent">
 
 									<div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
@@ -156,7 +156,7 @@
 										<h3 class="heading mb-3">Sejarah</h3>
 										<p>Sejaran rinci dari Kampung Budaya Polowijen</p>
 									</div>
-								</div>      
+								</div>
 							</div>
 							<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
 								<div class="services services-1 color-2 d-block img" style="background-image: url(images/services-2.jpg);">
@@ -165,7 +165,7 @@
 										<h3 class="heading mb-3">Sentra Produk</h3>
 										<p>A small river named Duden flows by their place and supplies it with the necessary</p>
 									</div>
-								</div>    
+								</div>
 							</div>
 							<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
 								<div class="services services-1 color-3 d-block img" style="background-image: url(images/services-3.jpg);">
@@ -174,7 +174,7 @@
 										<h3 class="heading mb-3">Galeri</h3>
 										<p>A small river named Duden flows by their place and supplies it with the necessary</p>
 									</div>
-								</div>      
+								</div>
 							</div>
 							<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
 								<div class="services services-1 color-4 d-block img" style="background-image: url(images/services-4.jpg);">
@@ -183,7 +183,7 @@
 										<h3 class="heading mb-3">Blog</h3>
 										<p>A small river named Duden flows by their place and supplies it with the necessary</p>
 									</div>
-								</div>      
+								</div>
 							</div>
 						</div>
 					</div>
@@ -302,7 +302,7 @@
 								<span class="days">5 KEGIATAN</span>
 								<h3><a href="#">Kriya Batik Malang</a></h3>
 								<p align="justify"><span></span>Ciptakan batik khas Polowijen dengan motif-motif tradisional yang sarat makna dan nilai budaya.</p>
-								
+
 							</div>
 						</div>
 					</div>
@@ -346,7 +346,7 @@
 				</div>
 			</div>
 		</section>
-		
+
 		<section class="ftco-section ftco-about img"style="background-image: url(images/bg_4.jpg);">
 			<div class="overlay"></div>
 			<div class="container py-md-5">
@@ -666,8 +666,8 @@
 					</div>
 				</div>
 			</footer>
-			
-			
+
+
 
 			<!-- loader -->
 			<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -688,6 +688,6 @@
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 			<script src="js/google-map.js"></script>
 			<script src="js/main.js"></script>
-			
+
 		</body>
 		</html>
